@@ -1,0 +1,51 @@
+Test 2.//проверка удаления
+1. Add figure in queue
+2. Delete element of queue
+3. Output element of queue
+4. Output all elements of queue
+5. Output the number of elements with area more then input
+6. Add figure by index
+2
+Empty collection.
+1. Add figure in queue
+2. Delete element of queue
+3. Output element of queue
+4. Output all elements of queue
+5. Output the number of elements with area more then input
+6. Add figure by index
+1
+Coordinates of 1 vertex:
+Coordinate 'x': 12
+Coordinate 'y': 12
+Coordinates of 2 vertex:
+Coordinate 'x': 12
+Coordinate 'y': 24
+Coordinates of 3 vertex:
+Coordinate 'x': 12
+Coordinate 'y': 12
+Coordinates of 4 vertex:
+Coordinate 'x': 412
+Coordinate 'y': 124
+Coordinates of 5 vertex:
+Coordinate 'x': 12
+Coordinate 'y': 12
+(12 12),(12 24),(12 12),(412 124),(12 12)
+1. Add figure in queue
+2. Delete element of queue
+3. Output element of queue
+4. Output all elements of queue
+5. Output the number of elements with area more then input
+6. Add figure by index
+2
+1. Delete the top element of queue
+2. Delete figure by index
+1
+1. Add figure in queue
+2. Delete element of queue
+3. Output element of queue
+4. Output all elements of queue
+5. Output the number of elements with area more then input
+6. Add figure by index
+4
+Empty collection.
+
